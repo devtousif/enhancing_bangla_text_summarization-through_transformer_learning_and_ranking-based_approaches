@@ -1,1 +1,1 @@
-# enhancing_bangla_text_summarization-through_transformer_learning_and_ranking-based_approaches
+# Enhancing Bangla Text Summarization through Transformer Learning and Ranking-Based Approaches
